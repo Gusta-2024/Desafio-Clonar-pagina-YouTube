@@ -1,0 +1,75 @@
+/* reset.css - Reset básico */
+
+/* Remove margens, paddings e define box-sizing */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Remove listas e seus marcadores */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Remove decoração padrão de links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Remove bordas e fundo padrão de botões e inputs */
+button,
+input,
+textarea,
+select {
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
+}
+
+/* Remove foco azul no Firefox */
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+/* Configura body para usar uma fonte padrão */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: transparent;
+  color: inherit;
+}
+
+/* Remove quebra automática de imagens e tabelas */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Define tabelas para colapsar bordas */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Remove sublinhado de links dentro de botões */
+button a {
+  text-decoration: none;
+  color: inherit;
+}

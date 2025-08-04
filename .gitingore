@@ -1,0 +1,30 @@
+# Pastas e arquivos que não precisam ir pro repositório
+
+# Configurações do editor (Visual Studio Code)
+.vscode/
+
+# Arquivos do sistema operacional (Windows, macOS)
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários comuns
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Pasta node_modules, caso use Node.js futuramente
+node_modules/
+
+# Arquivos de build/finalização (caso use ferramentas como webpack, gulp, etc)
+dist/
+build/
+
+# Variáveis de ambiente (caso crie algum .env)
+.env
+
+# Cache do navegador ou arquivos temporários que possam surgir
+.cache/
+
+# Outros arquivos temporários do seu sistema/editor
+*.orig
