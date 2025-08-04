@@ -1,0 +1,7 @@
+<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projeto React">
+  <rect width="320" height="180" rx="12" fill="#66bb6a" />
+  <text x="160" y="90" font-size="20" fill="#fff" font-family="Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
+    Projeto React
+  </text>
+</svg>
+

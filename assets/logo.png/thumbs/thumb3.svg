@@ -1,0 +1,6 @@
+<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" rx="12" fill="#ffca28"/>
+  <text x="50%" y="50%" font-size="20" fill="#000" font-family="Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
+    JavaScript Moderno
+  </text>
+</svg>
